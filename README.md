@@ -1,6 +1,10 @@
 # AI Interviewer Voice Bot
 
+<<<<<<< HEAD
 This project is an AI-powered Voice Bot designed to represent a candidate for an AI Engineer role. It uses Google's Gemini Flash model to generate concise, spoken-style responses suitable for voice interaction.
+=======
+This project is an AI-powered Voice Bot designed to represent a candidate for an GenAI Engineer role. It uses Google's Gemini Flash model to generate concise, spoken-style responses suitable for voice interaction.
+>>>>>>> d3be61e7b11618a488c6c9ab1e17e4332a2996ca
 
 ## Features
 
